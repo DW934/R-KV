@@ -10,6 +10,13 @@
     <a href="https://arxiv.org/abs/2505.24133"><b>📖 Paper</b></a>｜
 </p>
 
+## TODO
+- Apply R-KV in GPT-OSS
+- Integrate R-KV with VeRL
+- Finish R-KV in vLLM, Nano-vLLM and SGLang
+- Extend dataset to GPQA, liveCodeBench
+- Apply R-KV in QwQ
+- Apply R-KV in Qwen-3
 
 ## 🔥 News
 
